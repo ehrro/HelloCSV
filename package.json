@@ -115,6 +115,7 @@
     "@tanstack/react-table": "^8.21.2",
     "@tanstack/react-virtual": "^3.13.8",
     "cva": "npm:class-variance-authority@^0.7.1",
+    "hello-csv": "^0.3.5",
     "papaparse": "^5.4.1"
   }
 }
